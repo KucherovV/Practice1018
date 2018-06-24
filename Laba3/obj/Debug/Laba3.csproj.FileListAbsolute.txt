@@ -1,0 +1,44 @@
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\Администратор\Documents\Visual Studio 2008\Projects\Laba3\Laba3\obj\Debug\Laba3.pdb
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\obj\Debug\Laba3.exe
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\obj\Debug\Laba3.pdb
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\bin\Debug\Laba3.exe
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\bin\Debug\Laba3.pdb
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.Cache
+C:\Users\Maks\Desktop\Laba3\Laba3\Laba3\obj\Debug\Laba3.csprojResolveAssemblyReference.cache
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\bin\Debug\Laba3.exe
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\bin\Debug\Laba3.pdb
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.csprojResolveAssemblyReference.cache
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.Form1.resources
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.csproj.GenerateResource.Cache
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.exe
+F:\Lessons\ООП (Шостак)\Laba3\Laba3\Laba3\obj\Debug\Laba3.pdb
+D:\Downloads\Laba3_TP\Laba3\bin\Debug\Laba3.exe.config
+D:\Downloads\Laba3_TP\Laba3\obj\Debug\Laba3.exe
+D:\Downloads\Laba3_TP\Laba3\obj\Debug\Laba3.pdb
+D:\Downloads\Laba3_TP\Laba3\obj\Debug\Laba3.csprojResolveAssemblyReference.cache
+D:\Downloads\Laba3_TP\Laba3\obj\Debug\Laba3.Form1.resources
+D:\Downloads\Laba3_TP\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+D:\Downloads\Laba3_TP\Laba3\obj\Debug\Laba3.csproj.GenerateResource.Cache
+D:\Downloads\Laba3_TP\Laba3\bin\Debug\Laba3.exe
+D:\Downloads\Laba3_TP\Laba3\bin\Debug\Laba3.pdb
+C:\Users\User\Desktop\Laba3_TP\Laba3\bin\Debug\Laba3.exe.config
+C:\Users\User\Desktop\Laba3_TP\Laba3\bin\Debug\Laba3.exe
+C:\Users\User\Desktop\Laba3_TP\Laba3\bin\Debug\Laba3.pdb
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.Form1.resources
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.Properties.Resources.resources
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.exe
+C:\Users\User\Desktop\Laba3_TP\Laba3\obj\Debug\Laba3.pdb
